@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dragonruler1000
 - 👀 I’m interested in codeing and minecraft
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
